@@ -12,32 +12,32 @@
 
 # Homework
 ## Homework1
-[Product Stock Management](./Homework/Homework1)
+[Product stock Management](./Homework/Homework1)
 
-# Javalession
-[array](./Javalession/src/array)
+# JavaLesson
+[Array](./JavaLesson/src/array)
 
-[array2D](./Javalession/src/array2D)
+[Array2D](./JavaLesson/src/array2D)
 
-[classObject](./Javalession/src/classObject)
+[ClassObject](./JavaLesson/src/classObject)
 
-[controlFlowStatement](./Javalession/src/controlFlowStatement)
+[ControlFlowStatement](./JavaLesson/src/controlFlowStatement)
 
-[convert](./Javalession/src/convert)
+[Convert](./JavaLesson/src/convert)
 
-[methodlesson](./Javalession/src/methodlesson)
+[MethodLesson](./JavaLesson/src/methodLesson)
 
-[oop](./Javalession/src/oop)
+[Oop](./JavaLesson/src/oop)
 
-[operator](./Javalession/src/operator)
+[Operator](./JavaLesson/src/operator)
 
-[recursiveMethod](./Javalession/src/recursiveMethod)
+[RecursiveMethod](./JavaLesson/src/recursiveMethod)
 
-[vararg](./Javalession/src/vararg)
+[Vararg](./JavaLesson/src/vararg)
 
-[variable](./Javalession/src/variable)
+[Variable](./JavaLesson/src/variable)
 
 # OOP 
-[inheritance](./OOP/src/inheritance)
+[Inheritance](./OOP/src/inheritance)
 
-[encapsulation](./OOP/src/encapsulation)
+[Encapsulation](./OOP/src/encapsulation)
