@@ -1,5 +1,5 @@
 # Class and Object
-[Product]("[Product](Class%20and%20Object/Product)")
+[Product](./Class%20and%20Object/Product)
 
 [Employee]([Employee](Class%20and%20Object/Employee))
 
