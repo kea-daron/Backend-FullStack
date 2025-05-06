@@ -15,6 +15,8 @@
 
 ### Add Lombok to Project
 [Airplane](./Exercise/Airplane)
+### jg dg tha push.sh der ot
+
 
 ## Homework
 ### Homework1
