@@ -1,26 +1,54 @@
 package model;
+import java.math.BigDecimal;
+import java.time.LocalDate;
 
 public class Employee {
-    private int id;
+    private Integer id;
+    private String uuid;
     private String name;
-    private String position;
-    private double salary;
+    private String email;
+    private String profile;
+    private LocalDate createdDate;
+    private BigDecimal salary;
+    private EmployeePosition position;
 
-    public Employee(int id, String name, String position, double salary) {
+    public Employee(){}
+    public Employee(Integer id, String uuid,
+                    String name, String email,
+                    String profile,
+                    LocalDate createdDate,
+                    BigDecimal salary,
+                    EmployeePosition position) {
         this.id = id;
+        this.uuid = uuid;
         this.name = name;
-        this.position = position;
+        this.email = email;
+        this.profile = profile;
+        this.createdDate = createdDate;
         this.salary = salary;
+        this.position = position;
     }
-
     @Override
     public String toString() {
-        return "Employee{" + '\n' +
-                ", id : " + id + '\n' +
-                ", name : '" + name + '\n' +
-                ", position : '" + position + '\n' +
-                ", salary : " + salary +
+        System.out.println("=== Employee Information ===");
+        return "Employee{" + "\n" +
+                "id=" + id +"\n" +
+                "uuid='" + uuid + "\n" +
+                "name='" + name + "\n" +
+                "email='" + email + "\n" +
+                "profile='" + profile + "\n" +
+                "createdDate=" + createdDate +"\n" +
+                "salary=" + salary +"\n" +
+                "position=" + position +"\n" +
                 '}';
     }
-}
 
+    public Integer getId() {
+        return id;
+    }
+    public void setId(Integer id) {
+        this.id = id;
+    }
+
+
+}
