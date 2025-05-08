@@ -55,3 +55,20 @@
 
 ## Abstraction
 [Abstraction](/abstraction)
+
+## Generic
+[Generic](./Generic/src/Main.java)
+
+[BoundedType](./Generic/src/boundedType)
+
+[Exercise](./Generic/src/exercise)
+
+[GenericMethod](./Generic/src/genericMethod)
+
+[GenericTypeWithInterface](./Generic/src/genericTypeWithInterface)
+
+[MultiGeneric](./Generic/src/multiGeneric)
+
+[SealedClass](./Generic/src/sealedClass)
+
+
