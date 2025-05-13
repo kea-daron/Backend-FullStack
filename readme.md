@@ -17,7 +17,6 @@
 
 ### Add Lombok to Project
 [Airplane](./Exercise/Airplane)
-### jg dg tha push.sh der ot
 
 
 ## Homework
@@ -76,5 +75,19 @@
 [ArrayListObject](Arraylist/src/arrayListObject)
 
 [SreamAPI](Arraylist/src/sreamAPI)
+
+## Exception
+
+[BasicExceptionHandling](Exception/src/basicExceptionHandling)
+
+[CustomizeException](Exception/src/customizeException)
+
+[HandleExceptionByThrowing](Exception/src/handleExceptionByThrowing)
+
+[UncheckedException](Exception/src/uncheckedExpception)
+
+## Vector
+
+[Vector](Vector/src/Main.java)
 
 
